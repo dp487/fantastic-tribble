@@ -80,3 +80,5 @@ curl -X POST http://localhost:8080/movies \
 ## License
 
 MIT
+
+<!-- Documentation pass completed 2026-05-27 -->
